@@ -30,4 +30,5 @@ dev-dependencies = [
     "ipython>=8.30.0",
     "matplotlib>=3.9.3",
     "nbstripout>=0.8.1",
+    "opencv-python>=4.10.0.84",
 ]
